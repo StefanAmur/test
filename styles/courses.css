@@ -25,23 +25,23 @@ html {
   align-items: center;
 }
 .bgimg-1 {
-  background-image: url('./img/spain.jpg');
+  background-image: url('../img/spain.jpg');
 }
 
 .bgimg-2 {
-  background-image: url('./img/england.jpg');
+  background-image: url('../img/england.jpg');
 }
 
 .bgimg-3 {
-  background-image: url('./img/nepal.jpg');
+  background-image: url('../img/nepal.jpg');
 }
 
 .bgimg-4 {
-  background-image: url('./img/holland.jpg');
+  background-image: url('../img/holland.jpg');
 }
 
 .bgimg-5 {
-  background-image: url('./img/france.jpg');
+  background-image: url('../img/france.jpg');
 }
 
 /* Turn off parallax scrolling for tablets and phones. But maybe later? */
