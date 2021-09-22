@@ -1,0 +1,78 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  /* Shorthand for font-weight, font-size, line-height, font-family */
+  font: 400 18px/1.8 'Barlow', sans-serif;
+  color: #191919;
+  background-color: #f7f7f7;
+}
+
+.bgimg-1,
+.bgimg-2,
+.bgimg-3,
+.bgimg-4,
+.bgimg-5 {
+  position: relative;
+  min-height: 60%;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bgimg-1 {
+  background-image: url('./img/spain.jpg');
+}
+
+.bgimg-2 {
+  background-image: url('./img/england.jpg');
+}
+
+.bgimg-3 {
+  background-image: url('./img/nepal.jpg');
+}
+
+.bgimg-4 {
+  background-image: url('./img/holland.jpg');
+}
+
+.bgimg-5 {
+  background-image: url('./img/france.jpg');
+}
+
+/* Turn off parallax scrolling for tablets and phones. But maybe later? */
+/* @media only screen and (max-device-width: 768px) {
+  .bgimg-1,
+  .bgimg-2,
+  .bgimg-3 {
+    background-attachment: scroll;
+  }
+} */
+
+.course-description {
+  min-height: 40%;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.course-name {
+  font: 700 40px/1.8 'Barlow', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #f7f7f7;
+}
+
+.country-flag {
+  width: 100px;
+}
+
+.hr-line {
+  width: 120px;
+}

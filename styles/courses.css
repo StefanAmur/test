@@ -1,6 +1,6 @@
 .parallax-container {
   /* Fill the available space */
-  height: 100vh;
+  height: 90vh;
 
   /* Make the children of the element closer to the viewport */
   perspective: 2px;
