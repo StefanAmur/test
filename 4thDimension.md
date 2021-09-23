@@ -8,31 +8,31 @@
 - [] All elements work and are complete (menu, lists, images, ...)
 - [] Everything on the page has a function, a reason to be there
 - [] No dead links
-- [] English and dutch are not mixed
-- [] No spelling errors
-- [] No grammar errors
-- [] The website is deployed somewhere
-- [] Everything is relevant (no image of a barber on the website of a baker)
+- [x] English and dutch are not mixed
+- [x] No spelling errors
+- [x] No grammar errors
+- [x] The website is deployed somewhere
+- [x] Everything is relevant (no image of a barber on the website of a baker)
 
 ### Content
 
-- [] Opening hours (if needed)
-- [] Address (if needed)
-- [] Clickable email
+- [x] Opening hours (if needed)
+- [x] Address (if needed)
+- [x] Clickable email
 
 ### Text life matters aka typography is real
 
-- [] Some words are bolded
+- [x] Some words are bolded
 - [] Some words are italic
 - [] Some words have a different color
-- [] We aren't using a default font, cause it's not 2004
-- [] Contrast is not too low
-- [] Typographic hierarchy is correct
-- [] Text has a clear intro, middle, conclusion
-- [] Intro, middle, conclusion is style correctly
-- [] Headline font is a headline font
-- [] Body text font is a body text font
-- [] The text on the page has a good flow
+- [x] We aren't using a default font, cause it's not 2004
+- [x] Contrast is not too low
+- [x] Typographic hierarchy is correct
+- [x] Text has a clear intro, middle, conclusion
+- [x] Intro, middle, conclusion is style correctly
+- [x] Headline font is a headline font
+- [x] Body text font is a body text font
+- [x] The text on the page has a good flow
 
 ### Style
 
