@@ -24,7 +24,7 @@
 
 - [x] Some words are bolded
 - [] Some words are italic
-- [] Some words have a different color
+- [x] Some words have a different color
 - [x] We aren't using a default font, cause it's not 2004
 - [x] Contrast is not too low
 - [x] Typographic hierarchy is correct
@@ -38,57 +38,57 @@
 
 - [] Black is almost black but not #000
 - [] White is almost white but not #fff
-- [] The website is not an ugly color mess
-- [] The styling is consistent
-- [] It is not four totally different pages thrown together
+- [x] The website is not an ugly color mess
+- [x] The styling is consistent
+- [x] It is not four totally different pages thrown together
 - [] Everything works even if you are colorblind
 
 ### Not everyone has free 4G aka speed matters
 
 - [] Pictures are not too heavy
-- [] Pictures are not pixilated
+- [x] Pictures are not pixilated
 
 ### A company wants to be found/SEO
 
 - [] All the keywords this company wants to be found on are on the page
-- [] Page has an H1 tag
-- [] Page has keyword meta tags
-- [] Page has a title with the keywords in
+- [x] Page has an H1 tag
+- [x] Page has keyword meta tags
+- [x] Page has a title with the keywords in
 - [] Page loads fast
 
 ### Keep your workspace clean
 
 - [] No unused files in the repo
-- [] All files have a good, clear name
-- [] Good folder structure
-- [] The CSS folder does not have an image folder
-- [] Not too many files in the root folder
+- [x] All files have a good, clear name
+- [x] Good folder structure
+- [x] The CSS folder does not have an image folder
+- [x] Not too many files in the root folder
 
 ### Git(hub) is what you make it
 
 - [] All commits use a good comment
-- [] A github description has been filled in
-- [] A github website has been filled in
+- [x] A github description has been filled in
+- [x] A github website has been filled in
 
 ### Readme but also write me
 
-- [] The readme says who made it
-- [] The readme says why they made it
-- [] The readme explains what this repo/project is
-- [] The readme links to a preview (screenshot)
-- [] The readme contains a nice image
-- [] The readme has a markdown title
-- [] The readme is divided in sections
-- [] The readme is fun to read
-- [] The readme looks good
-- [] The readme is clear, even for someone that has no idea what is going on
+- [x] The readme says who made it
+- [x] The readme says why they made it
+- [x] The readme explains what this repo/project is
+- [x] The readme links to a preview (screenshot)
+- [x] The readme contains a nice image
+- [x] The readme has a markdown title
+- [x] The readme is divided in sections
+- [x] The readme is fun to read
+- [x] The readme looks good
+- [x] The readme is clear, even for someone that has no idea what is going on
 
 ### I'm So Meta, Even This Acronym
 
 - [] Keywords meta tag
 - [] Description meta tag
 - [] Title of the page is included
-- [] Favicon is included
+- [x] Favicon is included
 - [] Responsive meta tag is included
 - [] Charset is defined
 - [] Author is defined
