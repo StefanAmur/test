@@ -7,7 +7,7 @@
 - [] All buttons and links work - atm, hamburger menu on main page does not work
 - [] All elements work and are complete (menu, lists, images, ...) - see above
 - [x] Everything on the page has a function, a reason to be there
-- [] No dead links - go to project link goes back tot top
+- [] No dead links - go to project link goes back to top
 - [x] English and dutch are not mixed
 - [x] No spelling errors
 - [x] No grammar errors
