@@ -36,8 +36,8 @@
 
 ### Style
 
-- [] Black is almost black but not #000
-- [] White is almost white but not #fff
+- [] Black is almost black but not #000 - black is #000 in most cases
+- [] White is almost white but not #fff - white is #fff in most cases
 - [x] The website is not an ugly color mess
 - [x] The styling is consistent
 - [x] It is not four totally different pages thrown together
