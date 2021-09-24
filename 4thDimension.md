@@ -119,8 +119,8 @@
 
 - [x] CSS follows the DRY principle
 - [x] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
-- [x] There is no use of !important where it can be avoided - some !mportant is used but I suspect it's for Bootstrap
-- [] The page is responsive - about page is not responsive
+- [x] There is no use of !important where it can be avoided - !!some !important is used but I suspect it's for Bootstrap
+- [] The page is responsive - 'about' page is not responsive
 
 ### Thermometer goes WHERE???
 
