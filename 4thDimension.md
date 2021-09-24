@@ -95,7 +95,7 @@
 
 ### Data is the new oil
 
-- [] Implement (Google) analytics
+- [] Implement (Google) analytics - did not see it
 
 ### Perform all the tests
 
@@ -120,14 +120,14 @@
 - [x] CSS follows the DRY principle
 - [x] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
 - [x] There is no use of !important where it can be avoided - some !mportant is used but I suspect it's for Bootstrap
-- [] The page is responsive
+- [] The page is responsive - about page is not responsive
 
 ### Thermometer goes WHERE???
 
-- [] Your own style is included after the style of frameworks
-- [] Script tags are put at the end of the body or in the head with async/defer if possible
+- [x] Your own style is included after the style of frameworks
+- [x] Script tags are put at the end of the body or in the head with async/defer if possible
 
 ### Errors are to be avoided
 
 - [x] No http resources are used on an https website
-- [] The console shows no errors
+- [x] The console shows no errors
