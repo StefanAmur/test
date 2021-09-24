@@ -87,7 +87,7 @@
 
 - [x] Keywords meta tag
 - [x] Description meta tag
-- [] Title of the page is included
+- [x] Title of the page is included
 - [x] Favicon is included
 - [] Responsive meta tag is included - did not see one
 - [x] Charset is defined
