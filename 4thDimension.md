@@ -45,7 +45,7 @@
 
 ### Not everyone has free 4G aka speed matters
 
-- [x] Pictures are not too heavy - good for desktop, not so good for mobile especially 5Mb video
+- [x] Pictures are not too heavy - !!good for desktop, not so good for mobile especially 5Mb video
 - [x] Pictures are not pixilated
 
 ### A company wants to be found/SEO
@@ -54,7 +54,7 @@
 - [x] Page has an H1 tag
 - [x] Page has keyword meta tags
 - [x] Page has a title with the keywords in
-- [x] Page loads fast - on desktop, not mobile
+- [x] Page loads fast - !!on desktop, not mobile
 
 ### Keep your workspace clean
 
