@@ -36,8 +36,8 @@
 
 ### Style
 
-- [] Black is almost black but not #000 - black is #000 in most cases
-- [] White is almost white but not #fff - white is #fff in most cases
+- [] Black is almost black but not #000 - black is #000 in a few cases, especially navbar links, they are rgb 0,0,0,.55
+- [] White is almost white but not #fff - white is white in projects page. 
 - [x] The website is not an ugly color mess
 - [x] The styling is consistent
 - [x] It is not four totally different pages thrown together
@@ -89,18 +89,18 @@
 - [x] Description meta tag
 - [x] Title of the page is included
 - [x] Favicon is included
-- [] Responsive meta tag is included - did not see one
+- [x] Responsive meta tag is included
 - [x] Charset is defined
-- [] Author is defined - did not see it in html file
+- [x] Author is defined
 
 ### Data is the new oil
 
-- [] Implement (Google) analytics - did not see it
+- [x] Implement (Google) analytics - did not see it
 
 ### Perform all the tests
 
-- [x] Lighthouse - not too great results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
-- [x] W3C validator - validator reports some errors on all pages
+- [x] Lighthouse - !!not too great results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
+- [x] W3C validator - !!validator reports some errors on all pages
 
 ### Putting the antics back in semantics (but only for the html)
 
