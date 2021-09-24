@@ -26,7 +26,7 @@
 - [] Some words are italic - did not see any italic words
 - [x] Some words have a different color
 - [x] We aren't using a default font, cause it's not 2004
-- [] Contrast is not too low - overall contrast is great except for hamburger menu icon on main page, it's impossible to see :))
+- [x] Contrast is not too low
 - [x] Typographic hierarchy is correct
 - [x] Text has a clear intro, middle, conclusion
 - [x] Intro, middle, conclusion is style correctly
