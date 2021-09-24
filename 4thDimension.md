@@ -41,7 +41,7 @@
 - [x] The website is not an ugly color mess
 - [x] The styling is consistent
 - [x] It is not four totally different pages thrown together
-- [] Everything works even if you are colorblind
+- [x] Everything works even if you are colorblind
 
 ### Not everyone has free 4G aka speed matters
 
