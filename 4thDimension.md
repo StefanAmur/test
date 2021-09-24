@@ -4,7 +4,7 @@
 
 ### Perfection is not a detail
 
-- [] All buttons and links work - go to project link goes back to top but honestly it's fine from my pov
+- [x] All buttons and links work
 - [x] All elements work and are complete (menu, lists, images, ...)
 - [x] Everything on the page has a function, a reason to be there
 - [] No dead links - go to project link goes back to top
