@@ -4,7 +4,7 @@
 
 ### Perfection is not a detail
 
-- [] All buttons and links work - atm, hamburger menu on main page does not work
+- [o] All buttons and links work - atm, hamburger menu on main page does not work
 - [] All elements work and are complete (menu, lists, images, ...) - see above
 - [x] Everything on the page has a function, a reason to be there
 - [] No dead links - go to project link goes back tot top
