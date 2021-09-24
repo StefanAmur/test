@@ -4,10 +4,10 @@
 
 ### Perfection is not a detail
 
-- [] All buttons and links work
-- [] All elements work and are complete (menu, lists, images, ...)
-- [] Everything on the page has a function, a reason to be there
-- [] No dead links
+- [] All buttons and links work - atm, hamburger menu on main page does not work
+- [] All elements work and are complete (menu, lists, images, ...) - see above
+- [x] Everything on the page has a function, a reason to be there
+- [] No dead links - go to project link goes back tot top
 - [x] English and dutch are not mixed
 - [x] No spelling errors
 - [x] No grammar errors
@@ -23,10 +23,10 @@
 ### Text life matters aka typography is real
 
 - [x] Some words are bolded
-- [] Some words are italic
+- [] Some words are italic - did not see any italic words
 - [x] Some words have a different color
 - [x] We aren't using a default font, cause it's not 2004
-- [x] Contrast is not too low
+- [] Contrast is not too low - overall contrast is great except for hamburger menu icon on main page, it's impossible to see :))
 - [x] Typographic hierarchy is correct
 - [x] Text has a clear intro, middle, conclusion
 - [x] Intro, middle, conclusion is style correctly
@@ -45,20 +45,20 @@
 
 ### Not everyone has free 4G aka speed matters
 
-- [] Pictures are not too heavy
+- [x] Pictures are not too heavy - good for desktop, not so good for mobile especially 5Mb video
 - [x] Pictures are not pixilated
 
 ### A company wants to be found/SEO
 
-- [] All the keywords this company wants to be found on are on the page
+- [x] All the keywords this company wants to be found on are on the page
 - [x] Page has an H1 tag
 - [x] Page has keyword meta tags
 - [x] Page has a title with the keywords in
-- [] Page loads fast
+- [x] Page loads fast - on desktop, not mobile
 
 ### Keep your workspace clean
 
-- [] No unused files in the repo
+- [x] No unused files in the repo - apart for dstore
 - [x] All files have a good, clear name
 - [x] Good folder structure
 - [x] The CSS folder does not have an image folder
@@ -66,7 +66,7 @@
 
 ### Git(hub) is what you make it
 
-- [] All commits use a good comment
+- [x] All commits use a good comment
 - [x] A github description has been filled in
 - [x] A github website has been filled in
 
@@ -85,13 +85,13 @@
 
 ### I'm So Meta, Even This Acronym
 
-- [] Keywords meta tag
-- [] Description meta tag
+- [x] Keywords meta tag
+- [x] Description meta tag
 - [] Title of the page is included
 - [x] Favicon is included
-- [] Responsive meta tag is included
-- [] Charset is defined
-- [] Author is defined
+- [] Responsive meta tag is included - did not see one
+- [x] Charset is defined
+- [] Author is defined - did not see it in html file
 
 ### Data is the new oil
 
@@ -99,21 +99,21 @@
 
 ### Perform all the tests
 
-- [] Lighthouse
-- [] W3C validator
+- [x] Lighthouse - bad results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
+- [x] W3C validator
 
 ### Putting the antics back in semantics (but only for the html)
 
 - [] The html is semantically correct
-- [] Navigation is in a nav
-- [] Lists use list tags
-- [] H tags are used to signal importance
+- [x] Navigation is in a nav
+- [x] Lists use list tags
+- [x] H tags are used to signal importance
 - [] No div is used where another element is available
-- [] No span is used where another element is available
-- [] No inline styling is put on any element
-- [] Id's are only used once
-- [] The same 'type' of elements have the same classes
-- [] All images have an alt attribute and a title
+- [x] No span is used where another element is available
+- [x] No inline styling is put on any element
+- [x] Id's are only used once
+- [x] The same 'type' of elements have the same classes
+- [] All images have an alt attribute and a title - at least works page doesn't
 
 ### Just kidding CSS deserves some love too
 
@@ -129,5 +129,5 @@
 
 ### Errors are to be avoided
 
-- [] No http resources are used on an https website
+- [x] No http resources are used on an https website
 - [] The console shows no errors
