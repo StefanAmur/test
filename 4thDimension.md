@@ -99,8 +99,8 @@
 
 ### Perform all the tests
 
-- [x] Lighthouse - bad results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
-- [x] W3C validator
+- [x] Lighthouse - not too great results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
+- [x] W3C validator - validator reports some errors on all pages
 
 ### Putting the antics back in semantics (but only for the html)
 
