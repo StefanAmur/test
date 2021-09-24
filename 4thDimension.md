@@ -95,11 +95,11 @@
 
 ### Data is the new oil
 
-- [x] Implement (Google) analytics - did not see it
+- [x] Implement (Google) analytics
 
 ### Perform all the tests
 
-- [x] Lighthouse - !!not too great results for Mobile: Performance, Accessibility  and SEO | Desktop: Accesibility, SEO
+- [x] Lighthouse - !!not too great results for Mobile: Performance, Accessibility  and SEO | Desktop: Accessibility, SEO
 - [x] W3C validator - !!validator reports some errors on all pages
 
 ### Putting the antics back in semantics (but only for the html)
